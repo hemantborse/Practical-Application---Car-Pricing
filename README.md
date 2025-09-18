@@ -12,8 +12,18 @@ https://github.com/hemantborse/Practical-Application---Car-Pricing/blob/main/Car
 **Observations on visual plots :**
 
 
-1.	From 2015 to 2020 there are some outliers, for example with ford where some prices are out of range.
-2.	Cylinder 3 and 12 capacity cylinder cars are the least in number in dataset whereas more data available for 4,6- and 8-cylinder capacity cars.
+**1.	From 2015 to 2020 there are some outliers, for example with ford where some prices are out of range.**
+<img width="1457" height="525" alt="newplot (15)" src="https://github.com/user-attachments/assets/d128c8e5-47dc-4508-9c5c-3936dee17800" />
+
+
+
+**2.	Cylinder 3 and 12 capacity cylinder cars are the least in number in dataset whereas more data available for 4,6- and 8-cylinder capacity cars.**
+
+<img width="1457" height="525" alt="newplot (14)" src="https://github.com/user-attachments/assets/2a830979-e876-4ec3-9c25-a006e3343a38" />
+
+<img width="1457" height="525" alt="newplot (10)" src="https://github.com/user-attachments/assets/a14a490e-a92e-45ae-af2a-5c38e3b680c2" />
+
+
 3.	Most cars are in 10K to 15K range.
 4.	Most cars are from 2010 to 2015
 
